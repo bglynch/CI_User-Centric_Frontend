@@ -39,6 +39,12 @@
 
 >Indian spice restaurant challenge  
   
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMqLKnDrqcR6lY02ChXi8NTuvTilzN7pPmEJVP1qY56Hm5kVyW" alt="drawing" height="1px"/>
+#### 2.06 (week 2, day 06 of module)  
+>Rosie Odenkirk online resume continued
+>>HTML5, CSS3, Bootstrap, Font Awesome, Hover.css  
+
+  
 
 
 
