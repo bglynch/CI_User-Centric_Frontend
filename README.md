@@ -12,8 +12,13 @@
 >CSS media queries   
 
 1.03 (week 1, day 03 of module)  
->Intro to Bootstrap  
+>Intro to Bootstrap - CSS Framework  
 >Take 03-Basic.html and add bootstrap  
+  
+1.04 (week 1, day 04 of module)  
+>Javascript for Bootsrtap  
+>CSS filters    
+>Adding video and audio    
   
 
 
