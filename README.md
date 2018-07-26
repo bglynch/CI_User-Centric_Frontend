@@ -44,6 +44,10 @@
 >Rosie Odenkirk online resume continued
 >>HTML5, CSS3, Bootstrap, Font Awesome, Hover.css  
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMqLKnDrqcR6lY02ChXi8NTuvTilzN7pPmEJVP1qY56Hm5kVyW" alt="drawing" height="1px"/>
+#### 2.07 (week 2, day 07 of module)  
+>CSS positioning 
+
   
 
 

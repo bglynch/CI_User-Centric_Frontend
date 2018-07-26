@@ -1,0 +1,16 @@
+<!-- CSS positioning -->
+
+.item{
+    position: static / relative / absolute / fixed     (static is the default)
+}
+
+Relative:     
+    moves relative to current position 
+    does not break the flow of the static items
+    content moves but space where it occupied is left 
+    
+Absolute: 
+    moves relative to either, fulo body of page OR parent, if parent is set to relative
+    space where is orgionally occupied is filled by other elements
+    
+For moving content around it is better to use Absolute
