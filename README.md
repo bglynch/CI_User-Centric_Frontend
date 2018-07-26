@@ -1,11 +1,7 @@
 
 ![alt text][logo]  
 # Module 01: User Centric Frontend Design
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="drawing" height="50px"/>
-<img src="https://vignette.wikia.nocookie.net/howtoprogram/images/a/a9/CSS3.png/revision/latest?cb=20130422012035" alt="drawing" height="50px"/>
-<img src="http://getbootstrap.com/docs/4.1/assets/img/bootstrap-stack.png" alt="drawing" height="50px"/>
-<img src="https://static.c9.io/nc-3.1.4266-3d7d2787-wf/static/plugins/c9.profile/static/images/cloud9-logo.svg" alt="drawing" height="50px"/>
-<img src="https://image.flaticon.com/icons/svg/25/25231.svg" alt="drawing" height="50px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="drawing" height="50px"/><img src="https://vignette.wikia.nocookie.net/howtoprogram/images/a/a9/CSS3.png/revision/latest?cb=20130422012035" alt="drawing" height="50px"/><img src="http://getbootstrap.com/docs/4.1/assets/img/bootstrap-stack.png" alt="drawing" height="50px"/><img src="https://static.c9.io/nc-3.1.4266-3d7d2787-wf/static/plugins/c9.profile/static/images/cloud9-logo.svg" alt="drawing" height="50px"/><img src="https://image.flaticon.com/icons/svg/25/25231.svg" alt="drawing" height="50px"/>
 
 #### 1.01 (week 1, day 01 of module)  
 >intro to git and git hub  
